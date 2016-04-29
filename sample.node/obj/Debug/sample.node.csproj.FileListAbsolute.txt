@@ -1,0 +1,10 @@
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\sample.node.exe.config
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\sample.node.exe
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\sample.node.pdb
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\obj\Debug\sample.node.csprojResolveAssemblyReference.cache
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\obj\Debug\sample.node.exe
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\obj\Debug\sample.node.pdb
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\mapreduce.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Debug\mapreduce.pdb

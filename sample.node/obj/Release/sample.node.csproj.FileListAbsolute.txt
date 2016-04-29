@@ -1,0 +1,12 @@
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\sample.node.exe.config
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\sample.node.exe
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\sample.node.pdb
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\obj\Release\sample.node.exe
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\obj\Release\sample.node.pdb
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\obj\Release\sample.node.csprojResolveAssemblyReference.cache
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\Newtonsoft.Json.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\Newtonsoft.Json.xml
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\mapreduce.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\mapreduce.pdb
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\olap.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\sample.node\bin\Release\olap.pdb

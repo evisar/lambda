@@ -1,0 +1,8 @@
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\bin\Release\lambda.node.exe.config
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\bin\Release\lambda.node.exe
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\bin\Release\lambda.node.pdb
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\bin\Release\lambda.node.core.dll
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\bin\Release\lambda.node.core.pdb
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\obj\Release\lambda.node.csprojResolveAssemblyReference.cache
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\obj\Release\lambda.node.exe
+c:\users\ylli-pc\documents\visual studio 2015\Projects\lambda\lambda.node\obj\Release\lambda.node.pdb

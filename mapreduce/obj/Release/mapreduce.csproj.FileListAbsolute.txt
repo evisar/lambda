@@ -1,0 +1,7 @@
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\bin\Release\mapreduce.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\bin\Release\mapreduce.pdb
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\bin\Release\Newtonsoft.Json.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\bin\Release\Newtonsoft.Json.xml
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\obj\Release\mapreduce.csprojResolveAssemblyReference.cache
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\obj\Release\mapreduce.dll
+C:\Users\ylli-pc\documents\visual studio 2015\Projects\lambda\mapreduce\obj\Release\mapreduce.pdb
